@@ -1,0 +1,19 @@
+{
+
+
+	"name":"marco",
+	"lastname":"hernandez",
+	"age":"25",
+	"hobbies":{
+
+			"desarrollo":"web",
+			"series":{
+
+				"anime":"knigths of cydonia",
+				"drama":"house of cards"
+			}
+
+
+	}
+
+}
